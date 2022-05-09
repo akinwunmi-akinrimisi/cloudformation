@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: "2010-09-09"
-Description: Template to Create a Jenkins server using cloudformation
+Description: Template to Create a Jenkins server using cloudformation via jenkins
 
 Parameters:
 
